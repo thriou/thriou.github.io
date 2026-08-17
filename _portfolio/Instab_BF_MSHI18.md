@@ -4,14 +4,6 @@ excerpt: "Numerical simulation of longitudinal thermoacoustic instability in a h
 collection: portfolio
 ---
 
-### Project Overview
-
-Here you can write the full description of your research topic.
-
-* **Anchoring and lift-off dynamics** in hydrogen dual-swirl burners.
-* **Thermoacoustic instabilities** (longitudinal and transverse).
-* **Combustion noise** analysis using spectral decomposition.
-
 <video controls width="100%">
   <source src="{{ site.baseurl }}/files/Instab_BF_MSHI18.mp4" type="video/mp4">
 </video>
