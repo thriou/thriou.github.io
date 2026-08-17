@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <p style="text-align: center;">
-  <a href="{{ base_path }}/files/cv_theo_riou.pdf" class="btn btn--primary" target="_blank">📥 Télécharger mon CV au format PDF</a>
+  <a href="{{ base_path }}/files/CV_Riou_Academic_2026.pdf" class="btn btn--primary" target="_blank">📥 Download my CV in PDF format</a>
 </p>
 
 Education
