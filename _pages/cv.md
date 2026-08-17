@@ -36,7 +36,7 @@ Work Experience
 Scientific Contributions
 ======
 * **[1]** Riou *et al.* Numerical simulation of flame lift-off dynamics in a hydrogen dual-swirl burner, *Proc. Combust. Inst.*, 2026 (accepted)
-* **[2]** McDermott *et al.* An open-source anisotropic $k-\epsilon-v^2-f$ model for turbulent viscoelastic duct flows, *Phys. Fluids* (2023), doi: 10.1063/5.0159668
+* **[2]** McDermott *et al.* An open-source anisotropic $k\text{-}\epsilon\text{-}v^2\text{-}f$ model for turbulent viscoelastic duct flows, *Phys. Fluids* (2023), doi: 10.1063/5.0159668
 
 Talks and Poster Sessions
 ======
