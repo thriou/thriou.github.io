@@ -1,6 +1,6 @@
 ---
-title: "Hydrogen Injector Dynamics"
-excerpt: "Numerical simulation of longitudinal thermoacoustic instability in a hydrogen swirled burner.<br/><video controls width='100%'><source src='/files/Instab_BF_MSHI18.mp4' type='video/mp4'></video>"
+title: "Longitudinal thermoacoustic instability"
+excerpt: "Numerical simulation of longitudinal thermoacoustic instability in a hydrogen dual-swirl burner.<br/><video controls width='100%'><source src='/files/Instab_BF_MSHI18.mp4' type='video/mp4'></video>"
 collection: portfolio
 ---
 
