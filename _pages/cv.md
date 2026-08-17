@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<p style="text-align: center;">
+  <a href="{{ base_path }}/files/cv_theo_riou.pdf" class="btn btn--primary" target="_blank">📥 Télécharger mon CV au format PDF</a>
+</p>
+
 Education
 ======
 * **Ph.D in Combustion**, IMFT, Université de Toulouse, France (11/2023 – Present)
