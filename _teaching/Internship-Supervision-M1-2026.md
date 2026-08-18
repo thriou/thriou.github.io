@@ -1,5 +1,5 @@
 ---
-title: "Internship Supervision (M1)"
+title: "Internship Supervision - Hugo Escourrou (M1)"
 collection: teaching
 type: "Research internship"
 permalink: /teaching/Internship-Supervision-M1-2026
