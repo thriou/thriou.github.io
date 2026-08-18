@@ -38,9 +38,13 @@
     "layout/json_cv"
 ;
 
-/* Personnalisation de la taille de l'image de profil */
-.author__avatar img {
-  max-width: 200px !important;
-  width: 100%;
-  height: auto;
+/* Agrandir le conteneur et la photo de profil */
+.author__avatar {
+  max-width: 220px !important; /* Ajustez cette valeur (ex: 200px, 220px, 250px) */
+
+  img {
+    max-width: 100% !important;
+    width: 100% !important;
+    height: auto !important;
+  }
 }
