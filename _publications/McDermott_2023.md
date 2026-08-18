@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Proci_2026
 excerpt: ''
 date: 2023-01-01
-venue: 'Proc. Combust. Inst.'
+venue: 'Phys. Fluids'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
 paperurl: '/files/McDermott_2023.pdf'
 bibtexurl: #'https://academicpages.github.io/files/bibtex1.bib'
