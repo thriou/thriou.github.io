@@ -23,7 +23,7 @@ Education
 * **Master 2 Combustion**, ENSMA, Poitiers, France (2022 – 2023)
   * *Courses:* Turbulent combustion, Combustion in two-phase flows
 * **Engineering Degree**, ENSMA, Poitiers, France (2020 – 2023)
-  * *Courses:* Combustion, numerical schemes, probability, turbulence, CFD for industry, numerical methods, mathematics
+  * *Courses:* Combustion, Mathematics for Mechanics (hyperbolic systems, distribution theory, optimisation etc.), Numerical Scientific Computation, Finite Elements, Statistical Physics, Turbulence, CFD for industry etc.
 * **Classe préparatoire aux grandes écoles MPSI/MP**, Victor Grignard, Cherbourg, France (2018 – 2020)
 * **Baccalauréat Scientifique** (Mention Très Bien), Victor Grignard, Cherbourg, France (2018)
 
