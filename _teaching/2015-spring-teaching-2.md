@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching assistant"
+permalink: /teaching/Teaching-Assistan2024-2025
+venue: "ENSEEIHT"
+date: 2024-2025
+location: "Toulouse, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- M1 turbulence practical works: hot wire, Particle Image Velocimetry (PIV)
+- M1 project: modal decomposition in order to study combustion noise
