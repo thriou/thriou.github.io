@@ -50,7 +50,7 @@ Talks and Poster Sessions
 Grants and Honors
 ======
 * **HPC Allocation (EuroHPC / PRACE)**, 2025
-  * Together with two colleagues, secured a European HPC computing grant based on a proposal (70 million CPU hours).
+  * Together with two colleagues, secured a significant European HPC computing grant based on a proposal (70 million CPU hours).
 
 Responsibilities
 ======
