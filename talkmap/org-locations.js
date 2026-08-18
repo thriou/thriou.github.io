@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Journ\u00e9e des doctorants 2025<br />IMFT; Toulouse, France",
+    43.6044638,
+    1.4442433
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "International Symposium on Combustion 2026<br />Kyoto International Conference Center; Kyoto, Japan",
+    35.0115754,
+    135.7681441
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Journ\u00e9es th\u00e9matiques combustion hydrog\u00e8ne 2025<br />CEA; Saclay, France",
+    48.7305162,
+    2.172576
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Hydrogen week 2024<br />IMFT; Toulouse, France",
+    43.6044638,
+    1.4442433
+  ],
+  [
+    "European Combustion Meeting 2025<br />McEwan Hall and Appleton Tower; Edinburgh, Scotland",
+    55.9533456,
+    -3.1883749
   ]
 ];
