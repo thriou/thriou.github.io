@@ -37,3 +37,10 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Personnalisation de la taille de l'image de profil */
+.author__avatar img {
+  max-width: 200px !important;
+  width: 100%;
+  height: auto;
+}
