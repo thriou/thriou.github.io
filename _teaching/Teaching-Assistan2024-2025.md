@@ -2,9 +2,10 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Teaching assistant"
-permalink: /teaching/Teaching-Assistan2024-2025
+permalink: /teaching/teaching-assistant-2024-2025
 venue: "ENSEEIHT"
-date: 2024-2025
+date: 2024-09-01
+years: "2024 – 2025"
 location: "Toulouse, France"
 ---
 
