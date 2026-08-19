@@ -13,4 +13,4 @@ My research focuses on hydrogen combustion in aircraft injectors, specifically i
 - Low and high frequency thermoacoustic instabilities
 - Combustion noise
 
-I am currently seeking a postdoctoral position in mathematical modeling and the development of mathematical methods applied to fluid dynamics.
+I am currently seeking a postdoctoral position in mathematical modeling and the development of mathematical methods applied to fluid dynamics from January 2027.
