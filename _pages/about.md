@@ -15,4 +15,4 @@ My research focuses on hydrogen combustion in aircraft injectors, specifically i
 
 <!-- I am currently seeking a postdoctoral position in mathematical modeling and the development of mathematical methods applied to fluid dynamics, starting from January 2027. -->
 
-I am currently seeking a postdoctoral position, starting from January 2027, in fluid governing dynamics: mathematical modelling or mathematical methods development. 
+I am currently seeking a postdoctoral position, starting from January 2027, in the governing dynamics of fluid systems: mathematical modelling and mathematical methods development. 
