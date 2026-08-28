@@ -14,8 +14,7 @@ Since my childhood I am interested in governing dynamics in 3 main fields: scien
 
 Science
 ======
-Since middle school I have led amateur research in maths. Beginning with euclidian geometrical questions and research such as "how can we approximate some geometrical areas ?", "what are the properties of escribed circle ?". 
-I was then interested other branches such as polynomial algebra, number theory, differential geometry.  
+Since middle school I led amateur research in maths. Beginning with euclidian geometrical questions and research such as "how can we approximate some geometrical areas ?", "what are the properties of escribed circle ?". I was then interested other branches such as polynomial algebra, number theory, differential geometry. A common thread was trying to cast every problem into geometrical representations.
 What led me in mathematics is the research of some characteristics which "explains an absolute", which reveals fundamental invariants. 
 
 Arts
