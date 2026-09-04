@@ -23,5 +23,5 @@ General interest in art, especially in music: 19 years of piano practice, piano 
 
 Thinking
 ======
-I am interested in general thinking: mainly philosophy and theology, but also in psychology etc.
+I am interested in general thinking: mainly philosophy and theology, but also in psychology etc. I'm taking philosophy classes at the Collège des Bernardins.
 I have particular interest in metaphysics and ontological questions, especially linked to anthropological perspectives: the axioms of the different existing metaphyscis, and how can we define universal operations between the axioms. It provides insights into understanding what humans being are, their purpose and meaning, and the world around them. 
