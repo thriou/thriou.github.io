@@ -19,7 +19,7 @@ What led me in mathematics is the research of some characteristics which "explai
 
 Arts
 ======
-
+General interest in art, especially in music: 19 years of piano practice, piano competitions, musicology and music theory.
 
 Thinking
 ======
