@@ -18,7 +18,7 @@ Education
 ======
 * **Ph.D in Combustion**, IMFT, Université de Toulouse, France (11/2023 – Present)
   * *Topic:* Numerical simulation of the dynamics of hydrogen combustion in an aircraft injector: Anchoring dynamics, lift-off dynamics, low and high frequency thermoacoustic instabilities, combustion noise.
-  * *Supervisors:* Laurent Selle, Guillaume Daviller.
+  * *Advisors:* Laurent Selle, Guillaume Daviller.
   * *Funding:* ERC SELECT-H, led by Thierry Schuller.
 * **Master 2 Combustion**, ENSMA, Poitiers, France (2022 – 2023)
   * *Courses:* Turbulent combustion, Combustion in two-phase flows
