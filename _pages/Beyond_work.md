@@ -8,7 +8,7 @@ mathjax: true
 
 {% include base_path %}
 
-Since my childhood I am interested in governing dynamics in 3 main fields: science, art and thinking.
+Since my childhood I have been interested in governing dynamics in 3 main fields: science, art and thinking.
 
 Science
 ======
