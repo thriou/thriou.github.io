@@ -26,4 +26,4 @@ I have particular interest in metaphysics and ontological questions, especially 
 
 Others
 ======
-**Sport:** self-guided hiking (700 km on French part of the "Chemin de Compostelle", Jura, Keyras etc.).
+**Sport:** self-guided hiking (700 km on French part of the "Chemin de Compostelle", Jura, Queyras etc.).
