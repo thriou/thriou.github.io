@@ -17,9 +17,13 @@ What led me in mathematics is the research of some characteristics which "explai
 
 Art
 ======
-General interest in art, especially in music: 19 years of piano practice, piano competitions, musicology and music theory.
+General interest in art, especially in music: 19 years of piano practice, piano competitions, musicology, improvisation and music theory.
 
 Thinking
 ======
 I am interested in general thinking: mainly philosophy and theology, but also in psychology etc. I'm taking philosophy classes at the Collège des Bernardins.
 I have particular interest in metaphysics and ontological questions, especially linked to anthropological perspectives: the axioms of the different existing metaphyscis, and how can we define universal operations between the axioms. It provides insights into understanding what humans being are, their purpose and meaning, and the world around them. 
+
+Others
+======
+**Sport:** self-guided hiking (700 km on French part of the "Chemin de Compostelle", Jura, Keyras etc.).
