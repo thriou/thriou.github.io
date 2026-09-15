@@ -25,6 +25,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Beyond Work"
+    url: /Beyond_work/
     
   # - title: "CV"
   #   url: /cv-json/
