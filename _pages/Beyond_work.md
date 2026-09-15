@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Beyond_work"
+permalink: /Beyond_work/
 author_profile: true
-redirect_from:
-  - /resume
 mathjax: true
 ---
 
